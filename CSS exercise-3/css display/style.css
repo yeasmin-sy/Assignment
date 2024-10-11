@@ -1,0 +1,27 @@
+
+.mydiv{
+    /* By default display property is like as block */
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 16px;
+     /* display: inline-block;   */
+    
+     /* If we comment out display:inline-block; 
+     then the display property to make all 3 squares line up vertically */
+
+    margin: 16px 0px;  
+    /* if we want to display property of the CSS make all 3 squares line up horizontally
+     then uncomment display:inline-block; line */
+}
+
+#div1{
+    background-color: red;
+}
+
+#div2{
+    background-color:green;
+}
+#div3{
+    background-color:blue;
+}

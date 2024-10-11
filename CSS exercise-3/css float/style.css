@@ -1,0 +1,45 @@
+/* .mydiv{
+    display: flex;
+    justify-content: space-between;
+} */
+
+
+div{
+   display: inline-block;
+   width:40% ;
+  
+ 
+}
+#cat{
+    /* width: 600px;
+    height: 500px; */
+    float: left;
+    background-color:aquamarine;
+  
+   
+    
+}
+img{
+    float: left;
+}
+
+p{
+    font-size: 2em;
+}
+
+#dog{
+    /* width: 600px;
+    height: 550px; */
+    float: right;
+    background-color:coral;
+  
+
+}
+footer{
+   
+    background-color: blueviolet;
+    clear: both;
+    font-weight: bold;
+    text-align: center;
+}
+
